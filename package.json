@@ -12,5 +12,8 @@
     "babel-preset-react": "^6.24.1",
     "webpack": "^4.39.3",
     "webpack-dev-server": "^3.8.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.8"
   }
 }
