@@ -1,1 +1,1 @@
-alert("aa");
+console.log("okdk");
