@@ -40,7 +40,7 @@
     "style-loader": "0.18.2",
     "webpack": "3.3.0",
     "webpack-dev-server": "2.5.1",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
